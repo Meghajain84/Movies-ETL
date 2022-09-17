@@ -2,6 +2,7 @@ rough_challenge_notes.txt
 ETL_self.ipynb
 config.py
 Resources/ratings.csv
+Resources/movies_metadata.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
